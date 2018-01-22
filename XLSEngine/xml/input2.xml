@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons name="Group_SOEM">
+    <person>
+        <first>Joe Smith</first>
+        <last>Joe Smith</last>
+        <address>123 Main St, Anycity</address>
+    </person>
+</persons>    
